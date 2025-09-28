@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+mlenv/
+
+# Large folders / generated files
+Datasets/
+ICIS/checkpoints/
+ICIS/src/runs/
+
+# OS files
+.DS_Store
+Thumbs.db
