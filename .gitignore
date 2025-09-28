@@ -9,7 +9,7 @@ mlenv/
 # Large folders / generated files
 Datasets/
 ICIS/checkpoints/
-ICIS/src/runs/
+runs/
 
 # OS files
 .DS_Store
